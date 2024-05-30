@@ -1,3 +1,8 @@
+#BANC DE TEST REALISER PAR FOUED BENIDIR DURANT LE PROJET S8 2024 SOUS LA TUTELLE DE DAVID CAVARD
+#SI UN PROBLEME PERSISTE OU UNE QUESTION CONTACTEZ MOI: foued.benidir@groupe-esigelec.org 
+
+
+
 import serial
 import time
 import PySimpleGUI as sg
