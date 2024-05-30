@@ -1,5 +1,6 @@
 #S8MainBionique2024
-Ce répertoire est un recueil des travaux effectués durant le projet S8 2024.
+--------------------------------A LIRE AVANT DE DEBUTER LE PROJET--------------------------------
+
 
 Ce projet, initié il y a quelques années, a pour but de concevoir une main mécanique contrôlée électroniquement par les signaux électriques que le corps envoie au niveau d'un moignon issu d'un bras amputé.
 
@@ -9,7 +10,9 @@ Après tests électroniques et informatiques, l'hypothèse de court-circuit a é
 
 "Cette carte doit donc être revue pour séparer les plans de masse, ce qui permettrait d'éviter les surchauffes et de régler les problèmes d'asservissement."
 
-Par ailleurs, une problématique mécanique a également été posée. Jusqu'à présent, aucun prototype viable n'a été conçu, ne permettant pas au projet de progresser correctement. Notre second objectif a donc été de produire un modèle mécanique d'un doigt et d'une main, répondant aux enjeux d'un pliage naturel, d'un maintien d'une position avec force constante et de solidité dans le temps.
 
-Plusieurs prototypes ont été conçus en répondant aux critères nécessaires énumérés dans le rapport mécanique, présent dans ce répertoire.
-"L'utilisation d'une main à 3-4 doigts, avec 2 servomoteurs par doigt, ainsi que l'utilisation de roulements pour fluidifier le mouvement entre chaque phalange doit être étudiée autour d'un projet S8 complet, avec une partie de réflexion autour de nos conclusions, une partie de conception à partir de nos propositions de modèles et une partie de tests permettant de valider ou non le modèle proposé. Si les tests ne sont pas concluants, le groupe reviendra à la conception."
+SUJET POSSIBLE POUR UN FUTUR GROUPE 
+-(Re)Conception de la carte électronique avec contrainte de longueur et de largeur (doit rentrer dans un avant-bras).
+  -Etude préliminaire des avancées électroniques déjà effectuées (document de synthèse sur cette branche).
+  -Compréhension des problèmes rencontrés et résolution de ceux-ci
+  -Conception sous Eagle/KiCAD d'une nouvelle carte + impression
