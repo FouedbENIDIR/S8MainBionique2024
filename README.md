@@ -1,6 +1,6 @@
 #S8MainBionique2024
 Cette branche compile toutes les avancées côtés logicielle que le projet recquiert.
-
+LES ANCIENS CODES DU PING 2023 EST A RETROUVER DANS LE LIEN DU README DANS LA BRANCHE MAIN
 
 Au cours des années et des groupes ayant travaillé dessus, plusieurs modifications mais également complexification ont été constaté. 
 Cette branche apour but de simplifier la compréhension pour les prochains groupes. 
